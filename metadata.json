@@ -2,7 +2,7 @@
   "name": "Ion",
   "symbol": "ION",
   "description": "ION redéfinit l'éthique crypto. Conçu pour contrer l'anonymat malveillant du Darkweb, $ION mise sur la transparence et la sécurité des échanges. Pas de zones d'ombre, juste de l'innovation pure sur Solana.",
-  "image": "https://raw.githubusercontent.com/kakachi1234555/lumixcryptoimage/main/ion.png",
+  "image": "https://raw.githubusercontent.com/lumixship/lumixcryptoimage/main/ion.png",
   "attributes": [
     {
       "trait_type": "Version",
@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/kakachi1234555/lumixcryptoimage/main/ion.png",
+        "uri": "https://raw.githubusercontent.com/lumixship/lumixcryptoimage/main/ion.png",
         "type": "image/png"
       }
     ]
